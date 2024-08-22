@@ -9,7 +9,7 @@
 2. **Ubicación del archivo**:
    - Copia el archivo `PingKick.cs` en la carpeta de plugins de **lprocon**. La ruta típica es:
      ```
-     lprocon/plugins/
+     procon/plugins/
      ```
 
 3. **Reinicia el servidor**: Para que los cambios surtan efecto, reinicia tu servidor de Battlefield 3.
