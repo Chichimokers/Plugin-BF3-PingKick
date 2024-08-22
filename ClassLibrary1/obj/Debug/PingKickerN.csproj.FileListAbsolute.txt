@@ -1,0 +1,8 @@
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\obj\Debug\PingKickerN.csproj.AssemblyReference.cache
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\obj\Debug\PingKickerN.csproj.CoreCompileInputs.cache
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\bin\Debug\PRoCon.Core.dll
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\obj\Debug\PingKick.F695FC65.Up2Date
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Proyectos\BF3 PROCON plugin\PingKicker\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

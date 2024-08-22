@@ -1,0 +1,14 @@
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\bin\Debug\net8.0-windows\PingKicker.deps.json
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\bin\Debug\net8.0-windows\PingKicker.dll
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\bin\Debug\net8.0-windows\PingKicker.pdb
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\bin\Debug\net8.0-windows\PRoCon.Core.dll
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.csproj.AssemblyReference.cache
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.AssemblyInfoInputs.cache
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.AssemblyInfo.cs
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.csproj.CoreCompileInputs.cache
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.csproj.Up2Date
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.dll
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\refint\PingKicker.dll
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\PingKicker.pdb
+D:\Proyectos\BF3 PROCON plugin\PingKicker\PingKicker\obj\Debug\net8.0-windows\ref\PingKicker.dll
